@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <cinema>
     <!--Little Women -->
-    <movie genre="romance" releasedate="2019-12-26" duration="2h.15min">
+    <movie genre="romance" releasedate="2019-12-26" duration="2h.15min" title="Little Women">
         <title>Little Women</title>
         <image href="/img/LW.jpg" />
         <director> Greta Gerwig</director>
@@ -18,7 +18,7 @@
     </movie>
     <!--Little Women -->
     <!--The Call of The Wild -->
-    <movie genre="adventure" releasedate="2020-02-19" duration="1h.40min">
+    <movie genre="adventure" releasedate="2020-02-19" duration="1h.40min" title="wild">
         <title>The Call of The Wild</title>
         <image href="/img/wild.jpg" />
         <director> Chris Sanders</director>
@@ -35,7 +35,7 @@
     </movie>
     <!--The Call of The Wild -->
     <!--Parasite -->
-    <movie genre="thriller" releasedate="2020-02-07" duration="2h.12min">
+    <movie genre="thriller" releasedate="2020-02-07" duration="2h.12min" title="parasite">
         <title>Parasite</title>
         <image href="/img/parasite.jpg" />
         <director>Bong Joon Ho</director>

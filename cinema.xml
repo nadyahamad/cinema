@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cinema>
+    <!--Little Women -->
+    <movie genre="romance" releasedate="2019-12-26" duration="2h.15min">
+        <title>Little Women</title>
+        <image href="/img/LW.jpg" />
+        <director> Greta Gerwig</director>
+        <cast>
+            <actor>Saoirse Ronan</actor>
+            <actor>Emma Watson</actor>
+            <actor>Florence Pugh</actor>
+            <actor>Eliza Scanlen</actor>
+            <actor>Timothée Chalamet</actor>
+            <actor>Laura Dern</actor>
+        </cast>
+        <rating>GP</rating>
+        <price>15</price>
+    </movie>
+    <!--Little Women -->
+    <!--The Call of The Wild -->
+    <movie genre="adventure" releasedate="2020-02-19" duration="1h.40min">
+        <title>The Call of The Wild</title>
+        <image href="/img/wild.jpg" />
+        <director> Chris Sanders</director>
+        <cast>
+            <actor>Harrison Ford</actor>
+            <actor>Omar Sy</actor>
+            <actor>Cara Gee </actor>
+            <actor>Dan Stevens </actor>
+            <actor>Bradley Whitford </actor>
+            <actor>Jean Louisa Kelly</actor>
+        </cast>
+        <rating>GP</rating>
+        <price>15</price>
+    </movie>
+    <!--The Call of The Wild -->
+    <!--Parasite -->
+    <movie genre="thriller" releasedate="2020-02-07" duration="2h.12min">
+        <title>Parasite</title>
+        <image href="/img/parasite.jpg" />
+        <director>Bong Joon Ho</director>
+        <cast>
+            <actor>Kang-ho Song </actor>
+            <actor>Sun-kyun Lee </actor>
+            <actor>Yeo-jeong Jo </actor>
+            <actor>Woo-sik Choi  </actor>
+            <actor>So-dam Park  </actor>
+            <actor>Jeong-eun Lee</actor>
+        </cast>
+        <rating>16</rating>
+        <price>15</price>
+    </movie>
+    <!--Parasite -->
+    <!-- 1917 -->
+    <movie genre="drama" releasedate="2020-01-10" duration="1h.59min">
+        <title>1917</title>
+        <image href="/img/1917.jpg" />
+        <director>Sam Mendes</director>
+        <cast>
+            <actor>Dean-Charles Chapman  </actor>
+            <actor>George MacKay  </actor>
+            <actor>Daniel Mays  </actor>
+            <actor>Colin Firth  </actor>
+            <actor>Pip Carter  </actor>
+            <actor>Andy Apollo </actor>
+        </cast>
+        <rating>15A</rating>
+        <price>15</price>
+    </movie>
+    <!-- 1917 -->
+    <!-- Emma -->
+    <movie genre="comedy" releasedate="2020-02-14" duration="2h.4min">
+        <title>Emma</title>
+        <image href="/img/emma.jpg" />
+        <director> Autumn de Wilde</director>
+        <cast>
+            <actor>Anya Taylor-Joy  </actor>
+            <actor>Johnny Flynn  </actor>
+            <actor>Bill Nighy   </actor>
+            <actor>Mia Goth   </actor>
+            <actor>Myra McFadyen </actor>
+            <actor>Josh O'Connor </actor>
+        </cast>
+        <rating>GP</rating>
+        <price>15</price>
+    </movie>
+    <!-- Emma -->
+    <!-- Bad Boys-->
+    <movie genre="action" releasedate="2020-01-17" duration="2h.4min">
+        <title>Bad Boys For Life</title>
+        <image href="/img/badb.jpg" />
+        <director> Adil El Arbi </director>
+        <cast>
+            <actor> Will Smith   </actor>
+            <actor>Martin Lawrence  </actor>
+            <actor>Vanessa Hudgens  </actor>
+            <actor>Alexander Ludwig   </actor>
+            <actor>Charles Melton  </actor>
+            <actor>Paola Nuñez  </actor>
+        </cast>
+        <rating>16</rating>
+        <price>15</price>
+    </movie>
+    <!-- Bad Boys-->
+</cinema>

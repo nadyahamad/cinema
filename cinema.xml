@@ -21,6 +21,7 @@
     <!--The Call of The Wild -->
     <movie genre="adventure" releasedate="2020-02-19" duration="1h.40min" title="wild">
         <title>The Call of The Wild</title>
+        <genre>adventure</genre>
         <image href="/img/wild.jpg" />
         <director> Chris Sanders</director>
         <cast>

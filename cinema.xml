@@ -3,7 +3,7 @@
     <!--Little Women -->
     <movie genre="romance" releasedate="2019-12-26" duration="2h.15min" title="Little Women">
         <photo>
-        <image href="/img/LW.jpg" />
+        img/LW.jpg
         </photo>
         <director> Greta Gerwig</director>
         <cast>

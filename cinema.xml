@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <cinema>
     <!--Little Women -->
-    <movie releasedate="2019-12-26" duration="2h.15min" title="Little Women">
-     
-        <genre>romance</genre>
+    <movie genre="romance" releasedate="2019-12-26" duration="2h.15min" title="Little Women">
         <image href="/img/LW.jpg" />
         <director> Greta Gerwig</director>
         <cast>
@@ -19,9 +17,7 @@
     </movie>
     <!--Little Women -->
     <!--The Call of The Wild -->
-    <movie releasedate="2020-02-19" duration="1h.40min" title="wild">
-        
-        <genre>adventure</genre>
+    <movie genre="adventure" releasedate="2020-02-19" duration="1h.40min" title="The Call of The Wild">
         <image href="/img/wild.jpg" />
         <director> Chris Sanders</director>
         <cast>
@@ -37,8 +33,7 @@
     </movie>
     <!--The Call of The Wild -->
     <!--Parasite -->
-    <movie releasedate="2020-02-07" duration="2h.12min" title="parasite">
-        
+    <movie genre="thriller" releasedate="2020-02-07" duration="2h.12min" title="Parasite">
         <image href="/img/parasite.jpg" />
         <director>Bong Joon Ho</director>
         <cast>
@@ -54,8 +49,7 @@
     </movie>
     <!--Parasite -->
     <!-- 1917 -->
-    <movie genre="drama" releasedate="2020-01-10" duration="1h.59min">
-        <title>1917</title>
+    <movie genre="drama" releasedate="2020-01-10" duration="1h.59min" title="1917">
         <image href="/img/1917.jpg" />
         <director>Sam Mendes</director>
         <cast>
@@ -71,8 +65,7 @@
     </movie>
     <!-- 1917 -->
     <!-- Emma -->
-    <movie genre="comedy" releasedate="2020-02-14" duration="2h.4min">
-        <title>Emma</title>
+    <movie genre="comedy" releasedate="2020-02-14" duration="2h.4min" title="Emma">
         <image href="/img/emma.jpg" />
         <director> Autumn de Wilde</director>
         <cast>
@@ -88,8 +81,7 @@
     </movie>
     <!-- Emma -->
     <!-- Bad Boys-->
-    <movie genre="action" releasedate="2020-01-17" duration="2h.4min">
-        <title>Bad Boys For Life</title>
+    <movie genre="action" releasedate="2020-01-17" duration="2h.4min" title="Bad Boys For Life">
         <image href="/img/badb.jpg" />
         <director> Adil El Arbi </director>
         <cast>

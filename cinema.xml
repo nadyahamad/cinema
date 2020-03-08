@@ -3,7 +3,7 @@
     <!--Little Women -->
     <movie genre="romance" releasedate="2019-12-26" duration="2h.15min" title="Little Women">
         <photo>
-        /img/LW.jpg
+            <image href="/img/LW.jpg"/> 
         </photo>
         <director> Greta Gerwig</director>
         <cast>
@@ -16,6 +16,15 @@
         </cast>
         <rating>GP</rating>
         <price>15</price>
+        <timetable>
+            <monday>14h, 18h, 22h</monday>
+            <tuesday> No function</tuesday>
+            <wednesday>18h, 22h</wednesday>
+            <thursday>16h, 18h</thursday>
+            <friday>14h, 18h, 22h</friday>
+            <saturday>14h, 18h, 22h</saturday>
+            <sunday>14h, 18h, 22h</sunday>
+        </timetable>
     </movie>
     <!--Little Women -->
     <!--The Call of The Wild -->
@@ -32,6 +41,15 @@
         </cast>
         <rating>GP</rating>
         <price>15</price>
+        <timetable>
+            <monday>14h, 18h, 22h</monday>
+            <tuesday> No function</tuesday>
+            <wednesday>18h, 22h</wednesday>
+            <thursday>16h, 18h</thursday>
+            <friday>14h, 18h, 22h</friday>
+            <saturday>14h, 18h, 22h</saturday>
+            <sunday>14h, 18h, 22h</sunday>
+        </timetable>
     </movie>
     <!--The Call of The Wild -->
     <!--Parasite -->
@@ -48,6 +66,15 @@
         </cast>
         <rating>16</rating>
         <price>15</price>
+        <timetable>
+            <monday>14h, 18h, 22h</monday>
+            <tuesday> No function</tuesday>
+            <wednesday>18h, 22h</wednesday>
+            <thursday>16h, 18h</thursday>
+            <friday>14h, 18h, 22h</friday>
+            <saturday>14h, 18h, 22h</saturday>
+            <sunday>14h, 18h, 22h</sunday>
+        </timetable>
     </movie>
     <!--Parasite -->
     <!-- 1917 -->
@@ -64,6 +91,15 @@
         </cast>
         <rating>15A</rating>
         <price>15</price>
+        <timetable>
+            <monday>14h, 18h, 22h</monday>
+            <tuesday> No function</tuesday>
+            <wednesday>18h, 22h</wednesday>
+            <thursday>16h, 18h</thursday>
+            <friday>14h, 18h, 22h</friday>
+            <saturday>14h, 18h, 22h</saturday>
+            <sunday>14h, 18h, 22h</sunday>
+        </timetable>
     </movie>
     <!-- 1917 -->
     <!-- Emma -->
@@ -80,6 +116,15 @@
         </cast>
         <rating>GP</rating>
         <price>15</price>
+        <timetable>
+            <monday>14h, 18h, 22h</monday>
+            <tuesday> No function</tuesday>
+            <wednesday>18h, 22h</wednesday>
+            <thursday>16h, 18h</thursday>
+            <friday>14h, 18h, 22h</friday>
+            <saturday>14h, 18h, 22h</saturday>
+            <sunday>14h, 18h, 22h</sunday>
+        </timetable>
     </movie>
     <!-- Emma -->
     <!-- Bad Boys-->
@@ -96,6 +141,15 @@
         </cast>
         <rating>16</rating>
         <price>15</price>
+        <timetable>
+            <monday>14h, 18h, 22h</monday>
+            <tuesday> No function</tuesday>
+            <wednesday>18h, 22h</wednesday>
+            <thursday>16h, 18h</thursday>
+            <friday>14h, 18h, 22h</friday>
+            <saturday>14h, 18h, 22h</saturday>
+            <sunday>14h, 18h, 22h</sunday>
+        </timetable>
     </movie>
     <!-- Bad Boys-->
 </cinema>

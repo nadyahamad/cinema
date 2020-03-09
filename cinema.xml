@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <cinema>
     <!--Little Women -->
-    <movie genre="romance" releasedate="2019-12-26" duration="2h.15min" title="Little Women">
+    <movie genre="Romance" releasedate="2019-12-26" duration="2h.15min" title="Little Women">
         <photo>
             <image href="/img/LW.jpg"/> 
         </photo>
@@ -14,6 +14,7 @@
             <actor>Timothée Chalamet</actor>
             <actor>Laura Dern</actor>
         </cast>
+        <description>Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women each determined to live life on their own terms. </description>
         <rating>GP</rating>
         <price>15</price>
         <timetable>
@@ -28,7 +29,7 @@
     </movie>
     <!--Little Women -->
     <!--The Call of The Wild -->
-    <movie genre="adventure" releasedate="2020-02-19" duration="1h.40min" title="The Call of The Wild">
+    <movie genre="Adventure" releasedate="2020-02-19" duration="1h.40min" title="The Call of The Wild">
         <image href="/img/wild.jpg" />
         <director> Chris Sanders</director>
         <cast>
@@ -39,21 +40,22 @@
             <actor>Bradley Whitford </actor>
             <actor>Jean Louisa Kelly</actor>
         </cast>
+        <description>A sled dog struggles for survival in the wilds of the Yukon. </description>
         <rating>GP</rating>
         <price>15</price>
         <timetable>
-            <monday>14h, 18h, 22h</monday>
-            <tuesday> No function</tuesday>
-            <wednesday>18h, 22h</wednesday>
-            <thursday>16h, 18h</thursday>
-            <friday>14h, 18h, 22h</friday>
-            <saturday>14h, 18h, 22h</saturday>
-            <sunday>14h, 18h, 22h</sunday>
+            <monday>18h, 20h</monday>
+            <tuesday> 16h, 18h</tuesday>
+            <wednesday>14h, 16h</wednesday>
+            <thursday>No funtion</thursday>
+            <friday>15h, 18h, 20h</friday>
+            <saturday>14h, 17h, 21h</saturday>
+            <sunday>18h, 22h</sunday>
         </timetable>
     </movie>
     <!--The Call of The Wild -->
     <!--Parasite -->
-    <movie genre="thriller" releasedate="2020-02-07" duration="2h.12min" title="Parasite">
+    <movie genre="Thriller" releasedate="2020-02-07" duration="2h.12min" title="Parasite">
         <image href="/img/parasite.jpg" />
         <director>Bong Joon Ho</director>
         <cast>
@@ -64,21 +66,22 @@
             <actor>So-dam Park  </actor>
             <actor>Jeong-eun Lee</actor>
         </cast>
+        <description>A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure. </description>
         <rating>16</rating>
         <price>15</price>
         <timetable>
-            <monday>14h, 18h, 22h</monday>
-            <tuesday> No function</tuesday>
-            <wednesday>18h, 22h</wednesday>
-            <thursday>16h, 18h</thursday>
-            <friday>14h, 18h, 22h</friday>
-            <saturday>14h, 18h, 22h</saturday>
-            <sunday>14h, 18h, 22h</sunday>
+            <monday>20h</monday>
+            <tuesday>13h, 16h, 20h</tuesday>
+            <wednesday>18h, 21h</wednesday>
+            <thursday>14h, 19h</thursday>
+            <friday>19h, 21h</friday>
+            <saturday>14h, 17h, 20h</saturday>
+            <sunday>14h, 17h, 20h</sunday>
         </timetable>
     </movie>
     <!--Parasite -->
     <!-- 1917 -->
-    <movie genre="drama" releasedate="2020-01-10" duration="1h.59min" title="1917">
+    <movie genre="Drama" releasedate="2020-01-10" duration="1h.59min" title="1917">
         <image href="/img/1917.jpg" />
         <director>Sam Mendes</director>
         <cast>
@@ -89,21 +92,22 @@
             <actor>Pip Carter  </actor>
             <actor>Andy Apollo </actor>
         </cast>
+        <description>April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap. </description>
         <rating>15A</rating>
         <price>15</price>
         <timetable>
-            <monday>14h, 18h, 22h</monday>
-            <tuesday> No function</tuesday>
-            <wednesday>18h, 22h</wednesday>
-            <thursday>16h, 18h</thursday>
+            <monday>No function</monday>
+            <tuesday>16h, 18h</tuesday>
+            <wednesday>14h, 18h, 22h</wednesday>
+            <thursday>18h, 22h</thursday>
             <friday>14h, 18h, 22h</friday>
-            <saturday>14h, 18h, 22h</saturday>
+            <saturday>18h, 22h</saturday>
             <sunday>14h, 18h, 22h</sunday>
         </timetable>
     </movie>
     <!-- 1917 -->
     <!-- Emma -->
-    <movie genre="comedy" releasedate="2020-02-14" duration="2h.4min" title="Emma">
+    <movie genre="Comedy" releasedate="2020-02-14" duration="2h.4min" title="Emma">
         <image href="/img/emma.jpg" />
         <director> Autumn de Wilde</director>
         <cast>
@@ -114,21 +118,22 @@
             <actor>Myra McFadyen </actor>
             <actor>Josh O'Connor </actor>
         </cast>
+        <description>In 1800s England, a well meaning but selfish young woman meddles in the love lives of her friends. </description>
         <rating>GP</rating>
         <price>15</price>
         <timetable>
-            <monday>14h, 18h, 22h</monday>
-            <tuesday> No function</tuesday>
+            <monday> No function</monday>
+            <tuesday>18h, 20h</tuesday>
             <wednesday>18h, 22h</wednesday>
             <thursday>16h, 18h</thursday>
-            <friday>14h, 18h, 22h</friday>
-            <saturday>14h, 18h, 22h</saturday>
-            <sunday>14h, 18h, 22h</sunday>
+            <friday>15h, 17h, 20h</friday>
+            <saturday>15h, 17h, 20h</saturday>
+            <sunday>15h, 17h, 20h</sunday>
         </timetable>
     </movie>
     <!-- Emma -->
     <!-- Bad Boys-->
-    <movie genre="action" releasedate="2020-01-17" duration="2h.4min" title="Bad Boys For Life">
+    <movie genre="Action" releasedate="2020-01-17" duration="2h.4min" title="Bad Boys For Life">
         <image href="/img/badb.jpg" />
         <director> Adil El Arbi </director>
         <cast>
@@ -139,16 +144,17 @@
             <actor>Charles Melton  </actor>
             <actor>Paola Nuñez  </actor>
         </cast>
+        <description>The Bad Boys Mike Lowrey and Marcus Burnett are back together for one last ride in the highly anticipated Bad Boys for Life. </description>
         <rating>16</rating>
         <price>15</price>
         <timetable>
-            <monday>14h, 18h, 22h</monday>
-            <tuesday> No function</tuesday>
+            <monday>16h, 18h, 21h</monday>
+            <tuesday>16h, 18h, 21h</tuesday>
             <wednesday>18h, 22h</wednesday>
             <thursday>16h, 18h</thursday>
             <friday>14h, 18h, 22h</friday>
-            <saturday>14h, 18h, 22h</saturday>
-            <sunday>14h, 18h, 22h</sunday>
+            <saturday>13h, 16h, 18h, 21h</saturday>
+            <sunday>13h, 16h, 18h, 21h</sunday>
         </timetable>
     </movie>
     <!-- Bad Boys-->
